@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,I am Om
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Om
 #### I am Software Developer
 ![I am Software Developer](https://raw.githubusercontent.com/ompande/ompande/main/github%20header.png)
 
