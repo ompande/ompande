@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="20px" width="25px">, I am Om
-#### I am Software Developer
+#### I am Software Developer and Aspiring Product Manager.
 ![I am Software Developer](https://raw.githubusercontent.com/ompande/ompande/main/github%20header.png)
 
 I am a full stack developer from India. I like to build fun projects and I often share useful resources and tools.
